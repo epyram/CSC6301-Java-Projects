@@ -1,5 +1,6 @@
 # CSC6301-Java-Projects
 Repository for Week 4 and 5 Java Coding Projects.
+
 Week 4 Project titled "SortedLinkedList.Java".
 To run the program follow the instructions below:
 -------------------------------------
