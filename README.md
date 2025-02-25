@@ -2,7 +2,6 @@
 Repository for Week 4 and 5 Java Coding Projects.
 Week 4 Project titled "SortedLinkedList.Java".
 To run the program follow the instructions below:
-INSTRUCTIONS FOR RUNNING THE PROGRAM
 -------------------------------------
 
 1. **Compile the Program**:
@@ -19,7 +18,6 @@ INSTRUCTIONS FOR RUNNING THE PROGRAM
 
 Week 5 Project titled "SortedStack.Java".
 To run the program follow the instructions below:
-INSTRUCTIONS FOR RUNNING THE PROGRAM
 -------------------------------------
 
 1. **Compile the Program**:
